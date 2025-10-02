@@ -47,3 +47,5 @@ app.*.map.json
 #env
 .env
 .env.*
+# allow example file
+!.env.example
